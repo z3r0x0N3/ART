@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Shell
+*.log
+*.bak
+*.tmp
+*.swp
+*~
